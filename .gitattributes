@@ -1,0 +1,4 @@
+# Skills are read by tools that expect LF; keep line endings stable across machines.
+* text=auto eol=lf
+*.png binary
+*.skill binary

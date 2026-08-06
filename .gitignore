@@ -1,0 +1,10 @@
+# OS / editor
+.DS_Store
+*.swp
+.idea/
+.vscode/
+
+# Machine-local assistant settings
+.claude/settings.local.json
+.claude/*.local.*
+.cursor/*.local.*
